@@ -1,4 +1,4 @@
-Medal-Prediction
+Medal-Prediction:-
 It is a ML model to predict how many medals a country going to win in a olympics.
 
 Machine learning project steps:- Most machine learning projects follow a similar outline, which we'll also follow here. This outline will helps tackle any machine learning problem.
